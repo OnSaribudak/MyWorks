@@ -1,0 +1,10 @@
+#define SEALEVELPRESSURE_HPA (1013.25)
+#define servoPin 14
+#define BME_SCK 13
+#define BME_MISO 12
+#define BME_MOSI 11
+#define BME_CS 10
+#define buzzerPin 12
+//#define rolePin 17
+#define I2C_SDA 13
+#define I2C_SCL 15
